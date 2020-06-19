@@ -1,15 +1,17 @@
+
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
-<title></title>
+<title>ç¶²éš›ç¶²è·¯æœŸæœ«ä½œæ¥­</title>
 <meta charset="utf-8">
-<body>
+<body bgcolor="#FFB5B5" text="#FF9224">
+<center>
 <img src="001.jpg">
 
-<a href="2nd.html">²Ä2­¶</a>
-<a href="3rd.html">²Ä3­¶</a>
-<a href="4th.html">²Ä4­¶</a>
-<a href="5th.html">²Ä5­¶</a>
+<a href="2nd.html">Â²Ã„2Â­Â¶</a>
+<a href="3rd.html">Â²Ã„3Â­Â¶</a>
+<a href="4th.html">Â²Ã„4Â­Â¶</a>
+<a href="5th.html">Â²Ã„5Â­Â¶</a>
 
 </body>
 </head>
